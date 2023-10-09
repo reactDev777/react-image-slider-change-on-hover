@@ -12,7 +12,7 @@ npm install react-image-slider-change-on-hover
 yarn add react-image-slider-change-on-hover
 
 
-![Animated GIF]("/images/watches/card.gif")
+![Animated GIF]("/images/card.gif")
 
 
 
