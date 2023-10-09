@@ -1,18 +1,8 @@
-# react-image-slider-change-on-hover
+## Demo
 
-A React hook that allows you to change the active image in a gallery based on the scroll position of the card.
+You can see a live demo of this package in action by visiting the following link:
 
-## Installation
-
-You can install this package using npm or yarn:
-![09 10 2023_13 26 57_REC](https://github.com/reactDev777/react-image-slider-change-on-hover/assets/91951862/e4906333-12cd-41fa-ba47-4152be759306)
-
-````bash
-npm install react-image-slider-change-on-hover
-# or
-yarn add react-image-slider-change-on-hover
-
- 
+[Demo Link](https://6523c5be8fddba5febdad98d--visionary-salmiakki-4aacc6.netlify.app/)
 
 # react-image-slider-change-on-hover
 
@@ -34,7 +24,7 @@ images (array): An array of objects, each containing a url property pointing to 
 
 x (number): The x-position of the mouse on the card, used to determine the active image.
 
-cardWidth : Width of the Card 
+cardWidth : Width of the Card
 
 The hook returns an object with the following properties:
 
@@ -125,4 +115,5 @@ function YourComponent() {
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-````
+
+```
