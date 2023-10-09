@@ -16,8 +16,9 @@ You can install this package using npm or yarn:
 npm install react-image-slider-change-on-hover
  
 yarn add react-image-slider-change-on-hover
-API
-useImageGalleryChangeOnScroll({ images, x ,cardWidth})
+
+ 
+useReactImageSlider({ images, x ,cardWidth})
 This hook takes an object with the following properties:
 
 images (array): An array of objects, each containing a url property pointing to the image URL.

@@ -1,6 +1,6 @@
 {
   "name": "react-image-slider-change-on-hover",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A React hook that allows you to change the active image in a gallery based on the scroll position of the card.",
   "main": "useCardImageAnimation.js",
   "scripts": {
