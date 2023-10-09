@@ -33,7 +33,12 @@ active (number): The index of the active image.
 currentActiveImage (string): The URL of the currently active image.
 
 
+
+
+
 DEMO CODE
+
+```bash
 
 import React, { useEffect } from "react";
 import useReactImageSlider from "react-image-slider-change-on-hover";
@@ -110,7 +115,10 @@ function YourComponent() {
       </div>
     </div>
   );
+
+
 }
+```
 
 
 License
