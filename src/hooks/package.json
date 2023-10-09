@@ -6,7 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reactDev777/react-image-slider-change-on-hover.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Arif Munir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reactDev777/react-image-slider-change-on-hover/issues"
+  },
+  "homepage": "https://github.com/reactDev777/react-image-slider-change-on-hover#readme"
 }
