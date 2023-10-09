@@ -11,11 +11,7 @@ npm install react-image-slider-change-on-hover
 # or
 yarn add react-image-slider-change-on-hover
 
-
  
-![Alt text](card.gif) / ![](card.gif)
-
-
 
 # react-image-slider-change-on-hover
 
