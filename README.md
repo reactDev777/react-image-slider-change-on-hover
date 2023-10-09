@@ -14,7 +14,7 @@ You can install this package using npm or yarn:
 
  
 npm install react-image-slider-change-on-hover
-# or
+ 
 yarn add react-image-slider-change-on-hover
 API
 useImageGalleryChangeOnScroll({ images, x ,cardWidth})
