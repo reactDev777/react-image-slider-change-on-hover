@@ -81,7 +81,7 @@ function YourComponent() {
   const { active, currentActiveImage } = useReactImageSlider({
     images,
     x,
-    cardWidth
+    cardWidth:220
   });
 
   // Use the `active` and `currentActiveImage` values to update your UI.
