@@ -36,7 +36,7 @@ currentActiveImage (string): The URL of the currently active image.
 DEMO CODE
 
 import React, { useEffect } from "react";
-import useImageGalleryChangeOnScroll from "react-image-slider-change-on-hover";
+import useReactImageSlider from "react-image-slider-change-on-hover";
 import { useMouse } from "@mantine/hooks";
 
 function YourComponent() {
@@ -71,8 +71,8 @@ function YourComponent() {
   const { ref, x } = useMouse();
   // You can use matinedev mouse hook or custom hook to get x (xPositionOfMouse) value of your card
 
-  // Use the `useImageGalleryChangeOnScroll` hook by passing the `images` array and `x` position of the mouse on the card.
-  const { active, currentActiveImage } = useImageGalleryChangeOnScroll({
+  // Use the `useReactImageSlider` hook by passing the `images` array and `x` position of the mouse on the card.
+  const { active, currentActiveImage } = useReactImageSlider({
     images,
     x,
     cardWidth
