@@ -5,12 +5,17 @@ A React hook that allows you to change the active image in a gallery based on th
 ## Installation
 
 You can install this package using npm or yarn:
-![09 10 2023_13 26 57_REC](https://github.com/reactDev777/react-image-slider-change-on-hover/assets/91951862/e4906333-12cd-41fa-ba47-4152be759306)
+
+
 
 ````bash
 npm install react-image-slider-change-on-hover
 # or
 yarn add react-image-slider-change-on-hover
+
+
+![Video GIF](https://github.com/reactDev777/react-image-slider-change-on-hover/assets/91951862/e4906333-12cd-41fa-ba47-4152be759306)
+
 
  
 
